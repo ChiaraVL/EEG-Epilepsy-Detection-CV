@@ -7,12 +7,12 @@ Este repositorio contiene el código y las instrucciones necesarias para replica
 El proyecto ha sido desarrollado para ser ejecutado en Google Colab, permitiendo así un acceso fácil y rápido sin necesidad de configuraciones complejas de entorno local.
 
 ## Estructura del Repositorio
-- **colab_notebooks/**: Contiene enlaces a los Jupyter Notebooks alojados en Google Colab con todo el análisis y experimentación realizados.
+- **Señales.ipynb**: Contiene enlace al Jupyter Notebook alojado en Google Colab con todo el análisis y experimentación realizados.
 - **requirements.txt**: Lista todas las dependencias de Python necesarias para ejecutar los notebooks en un entorno local, en caso de ser necesario.
 
 ## Uso
-1. Navega a la carpeta `colab_notebooks/` y abre los enlaces proporcionados para acceder directamente a los notebooks en Google Colab.
-2. Copia los notebooks a tu propio Google Drive para hacer cambios o realizar tus propios experimentos.
+1. Navega a la carpeta `main/` y abre los enlaces proporcionados para acceder directamente a los notebooks en Google Colab.
+2. Copia el notebook a tu propio Google Drive para hacer cambios o realizar tus propios experimentos.
 3. Instala todas las dependencias necesarias ejecutando `!pip install -r requirements.txt` en la celda inicial de Colab.
 
 ## Contribuciones
