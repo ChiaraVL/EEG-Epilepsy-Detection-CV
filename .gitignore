@@ -2,3 +2,5 @@
 *.h5
 models/*
 *.crdownload
+EEGs_Guinea-Bissau/*
+EEGs_Nigeria/*
