@@ -8,10 +8,21 @@ Este repositorio contiene el código y las instrucciones necesarias para replica
 - **Experimentación.ipynb**: Contiene todos los experimentos realizados con los modelos creados anteriormente.
 - **requirements.txt**: Lista todas las dependencias de Python necesarias para ejecutar los notebooks en un entorno local, en caso de ser necesario.
 
-## Uso
-1. Navega a la carpeta `main/` y abre los enlaces proporcionados para acceder directamente a los notebooks.
-2. Copia el notebook a tu propio Google Drive para hacer cambios o realizar tus propios experimentos.
-3. Instala todas las dependencias necesarias ejecutando `!pip install -r requirements.txt`.
+## Instalación
+1. Clonar el repositorio:   
+```sh
+git clone https://github.com/ChiaraVL/ReconocimientoNo.git
+cd ReconocimientoNo
+```
+2. Cree y active un entorno virtual (opcional pero recomendado):
+```sh
+python -m venv venv
+source venv/bin/activate  # En Windows usar `venv\Scripts\activate`
+```
+3. Instalar las dependencias requeridas:
+```sh
+pip install -r requirements.txt
+```
 
 ## Contribuciones
 Este proyecto está abierto a contribuciones. Si tienes interés en mejorar los modelos existentes, añadir nuevas funcionalidades o mejorar la documentación, tu aporte será bien recibido. Siéntete libre de realizar un pull request o abrir un issue.
