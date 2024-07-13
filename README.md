@@ -11,8 +11,8 @@ Este repositorio contiene el código y las instrucciones necesarias para replica
 ## Instalación
 1. Clonar el repositorio:   
 ```sh
-git clone https://github.com/ChiaraVL/ReconocimientoNo.git
-cd ReconocimientoNo
+git clone https://github.com/ChiaraVL/EEG-Epilepsy-Detection-CV.git
+cd EEG-Epilepsy-Detection-CV
 ```
 2. Cree y active un entorno virtual (opcional pero recomendado):
 ```sh
