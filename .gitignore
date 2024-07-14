@@ -1,6 +1,7 @@
 *.zip
 *.h5
-models/*
+*.keras
+models
 *.crdownload
-EEGs_Guinea-Bissau/*
-EEGs_Nigeria/*
+EEGs_Guinea-Bissau
+EEGs_Nigeria
