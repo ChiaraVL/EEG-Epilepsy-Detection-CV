@@ -4,7 +4,7 @@
 Este repositorio contiene el código y las instrucciones necesarias para replicar los análisis y resultados del proyecto de detección temprana de la epilepsia utilizando electroencefalogramas (EEG) y técnicas de aprendizaje automático avanzadas. El enfoque se centra en identificar patrones específicos asociados con estados epilépticos en tiempo real, permitiendo una intervención médica más rápida y efectiva.
 
 ## Estructura del Repositorio
-- **Implementación inicial.ipynb**: Contiene el Jupyter Notebook con la implementación de los modelos y el análisis de los mismos con los datos de Guinea-Bissau.
+- **Experimentación Guinea-Bissau.ipynb**: Contiene el Jupyter Notebook con la implementación de los modelos y el análisis de los mismos con los datos de Guinea-Bissau.
 - **Experimentación.ipynb**: Contiene todos los experimentos realizados con los modelos creados anteriormente.
 - **requirements.txt**: Lista todas las dependencias de Python necesarias para ejecutar los notebooks en un entorno local, en caso de ser necesario.
 
