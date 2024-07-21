@@ -5,7 +5,7 @@ Este repositorio contiene el código y las instrucciones necesarias para replica
 
 ## Estructura del Repositorio
 - **Experimentación Guinea-Bissau.ipynb**: Contiene el Jupyter Notebook con la implementación de los modelos y el análisis de los mismos con los datos de Guinea-Bissau.
-- **Experimentación.ipynb**: Contiene todos los experimentos realizados con los modelos creados anteriormente.
+- **Experimentación Nigeria.ipynb**: Contiene el Notebook con la implementación de los modelos y los gráficos de los resultados con los datos de Nigeria.
 - **requirements.txt**: Lista todas las dependencias de Python necesarias para ejecutar los notebooks en un entorno local, en caso de ser necesario.
 
 ## Instalación
